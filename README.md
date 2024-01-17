@@ -14,3 +14,5 @@ O jogo consiste em clicar no máximo de vezes possíveis no Ralph.
 ## 🚀 Sobre mim
 Eu sou um desenvolvedor Front-End que utiliza as tecnologias HTML, CSS e JS para desenvolver projetos!
 
+## Contato
+E-Mail: talissonfelipedesouzafaria@gmail.com
